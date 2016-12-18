@@ -40,7 +40,7 @@ $ipfs = new IPFS("localhost");
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 
-		<title>Decentralized picture hosting in ipfs</title>
+		<title>Decentralized picture hosting in ipfs with Memetic cryptocurrency (MEME) blockchain verification</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
@@ -58,7 +58,7 @@ $ipfs = new IPFS("localhost");
 		}
 		</style>
 		<script src="/static/common.js"></script>
-		<meta name="description" content="Decentralized image hosting website. Never lose your images by uploading them on ipfs.">
+		<meta name="description" content="Decentralized picture hosting in ipfs with Memetic cryptocurrency (MEME) blockchain verification. Freedom of speech with fair moderation.">
 	</head>
 
 	<body>
